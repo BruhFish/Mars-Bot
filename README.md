@@ -82,67 +82,11 @@ For more information on a command use `help <command>`
 
 ## Self Hosting
 
-If you would like to host the bot yourself, you are more than welcome. If you have questions on how to do any of these steps, you should not be self hosting. I will only be walking through the process for Windows 10. You will need **node.js** and **git** to run this bot on your own. You can get node.js [here](https://nodejs.org/en/download/) and git [here](https://git-scm.com/download/win).
-
-### Cloning and Dependency
-
-Open a new terminal (CMD, Powershell, etc) in a folder.\
-Clone the repository and navigate to it.
-
-```cmd
-git clone https://github.com/mebrooks01/Mars-Bot
-cd Mars-Bot
-```
-
-Then install its dependencies.
-
-```cmd
-npm install
-```
-
-### Configuration
-
-You will need to rename `config-example.json` to `config.json` and fill in all the following information
-
-#### Config
-
-- token: The bots token used to login to the Discord API.
-- api_key: Your API key for the NASA API. You can get one from [here](https://api.nasa.gov/)
-- prefix: The prefix the bot uses.
-- invite: The invite to your Discord server.
-- embed_color: what color you want the embeds to be
-- pfp: the link for the pfp you are using
-- log_channel: The channel ID of the bot logs
-- mysql
-  - host: The database host address
-  - user: The username of the database
-  - pwd: The database password
-  - db: the database name
-- user_id
-  - owner: The user ID of the bot application owner(can have multiple in an array).
-- command_throttling
-  - api
-    - usages: By default its set to 2
-    - duration: By default its set to 10
-  - missions
-    - usages: By default its set to 4
-    - duration: By default its set to 2
-  - utilities
-    - usages: By default its set to 2
-    - duration: By default its set to 1
-
-#### DPOD
-
-This file contains an array of Objects with guild and channel ID's to send the Daily Astronomy Pic of The Day to.
-
-```json
-[{ "guild": "<Guild ID>", "Channel": "<Channel ID>" }]
-```
+Self-hosting is not supported and for you to do at your own risk. I just don't have the effort to write the new documentation on how to self host Mars-Bot. If you want go ahead, but please do not make the bot paid for access or anything else simular. 
 
 ## Credits
 
-Code Written By: [Mebrooks01#3354](https://github.com/mebrooks01). lol\
-Anti shitty-ass code: [MrSmarty#1732](https://github.com/Mr-Smarty), [cAtte\_#4289](https://github.com/cAttte), [XboxBedrock#6958](https://github.com/XboxBedrock) and [Rude Yeti, Incorporated#8600](https://github.com/rudeyeti)
+Code Written By: [Mebrooks01#3354](https://github.com/mebrooks01) and [bruhfish](https://github.com/bruhfish).\
 
 API calls use [NASA's API](https://api.nasa.gov/) to pull data. The part of the API I use is maintained by [Chris Cerami](https://github.com/chrisccerami/mars-photo-api).
 
