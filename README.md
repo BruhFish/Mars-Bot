@@ -86,7 +86,7 @@ Self-hosting is not supported and for you to do at your own risk. I just don't h
 
 ## Credits
 
-Code Written By: [Mebrooks01#3354](https://github.com/mebrooks01) and rewrite by [bruhfish](https://github.com/bruhfish).\
+Code Written By: [Mebrooks01#3354](https://github.com/mebrooks01) and rewrite by [bruhfish](https://github.com/bruhfish).
 
 API calls use [NASA's API](https://api.nasa.gov/) to pull data. The part of the API I use is maintained by [Chris Cerami](https://github.com/chrisccerami/mars-photo-api).
 
