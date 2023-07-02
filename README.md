@@ -1,6 +1,6 @@
 # Mars Bot Documentation
 
-[![Status](https://top.gg/api/widget/status/1025006447739805758.svg)](https://top.gg/bot/1025006447739805758) ![Discord](https://img.shields.io/discord/695513103084945508?label=Discord) ![contributors](https://img.shields.io/github/all-contributors/bruhfish/Mars-Bot?label=contributors) ![lines](https://img.shields.io/tokei/lines/github/bruhfish/Mars-Bot)
+[![Status](https://top.gg/api/widget/status/1025006447739805758.svg)](https://top.gg/bot/1025006447739805758) ![Discord](https://img.shields.io/discord/69551310308494550?label=Discord) ![contributors](https://img.shields.io/github/all-contributors/bruhfish/Mars-Bot?label=contributors) ![lines](https://img.shields.io/tokei/lines/github/bruhfish/Mars-Bot)
 
 Mars Bot is an open-source discord bot developed by [bruhfish or bruhfish#6942](https://github.com/BruhFish)
 You can add it to your server with [this link](https://discord.com/oauth2/authorize?client_id=1025006447739805758&scope=bot&permissions=3288726593). If you have any questions you can join [our discord server](https://discord.gg/2M9k3KUHMw).
