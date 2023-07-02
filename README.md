@@ -2,7 +2,7 @@
 
 [![Status](https://top.gg/api/widget/status/760605516384305224.svg)](https://top.gg/bot/760605516384305224) ![Discord](https://img.shields.io/discord/760662877563650048?label=Discord) ![contributors](https://img.shields.io/github/all-contributors/mebrooks01/Mars-Bot?label=contributors) ![lines](https://img.shields.io/tokei/lines/github/mebrooks01/Mars-Bot)
 
-Mars Bot is an open-source discord bot developed by [Mebrooks01#3354](https://github.com/mebrooks01)\
+Mars Bot is an open-source discord bot developed by [Mebrooks01#3354](https://github.com/BruhFish)
 You can add it to your server with [this link](https://discord.com/oauth2/authorize?client_id=760605516384305224&scope=bot&permissions=3288726593). If you have any questions you can join [our discord server](https://discord.gg/yKnBYJE).
 
 Mars Bot uses NASA's API and other sources to give you plenty of cool information about missions and even look at the weather on Mars (when NASA/JPL-Caltech decides to give the data to the API).
@@ -14,17 +14,8 @@ Mars Bot uses NASA's API and other sources to give you plenty of cool informatio
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mebrooks01"><img src="https://avatars.githubusercontent.com/u/74862054?v=4?s=128" width="128px;" alt=""/><br /><sub><b>bruhfish</b></sub></a><br /><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Code">💻</a> <a href="#projectManagement-mebrooks01" title="Project Management">📆</a><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mebrooks01"><img src="https://avatars.githubusercontent.com/u/74862054?v=4?s=128" width="128px;" alt=""/><br /><sub><b>bruhfish</b></sub></a><br /><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Code">💻</a><a href="#projectManagement-mebrooks01" title="Project Management">📆</a><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mebrooks01"><img src="https://avatars.githubusercontent.com/u/39204478?v=4?s=128" width="128px;" alt=""/><br /><sub><b>Malachi Brooks</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=mebrooks01" title="Code">💻</a> <a href="#projectManagement-mebrooks01" title="Project Management">📆</a> <a href="https://github.com/mebrooks01/Mars-Bot/commits?author=mebrooks01" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Mr-Smarty"><img src="https://avatars.githubusercontent.com/u/69656599?v=4?s=128" width="128px;" alt=""/><br /><sub><b>Mr-Smarty</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=Mr-Smarty" title="Code">💻</a> <a href="https://github.com/mebrooks01/Mars-Bot/commits?author=Mr-Smarty" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/XboxBedrock"><img src="https://avatars.githubusercontent.com/u/68715625?v=4?s=128" width="128px;" alt=""/><br /><sub><b>Xbox</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=XboxBedrock" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/rudeyeti"><img src="https://avatars.githubusercontent.com/u/67293473?v=4?s=128" width="128px;" alt=""/><br /><sub><b>Rude Yeti</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=rudeyeti" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vaporrrr"><img src="https://avatars.githubusercontent.com/u/74574116?v=4?s=128" width="128px;" alt=""/><br /><sub><b>VapoR</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=Vaporrrr" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/cAttte"><img src="https://avatars.githubusercontent.com/u/26514199?v=4?s=128" width="128px;" alt=""/><br /><sub><b>cattte</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=cattte" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/arc25275"><img src="https://avatars.githubusercontent.com/u/55003876?v=4?s=128" width="128px;" alt=""/><br /><sub><b>arc25275</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=arc25275" title="Code">💻</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-restore -->
