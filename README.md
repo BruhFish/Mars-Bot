@@ -14,7 +14,7 @@ Mars Bot uses NASA's API and other sources to give you plenty of cool informatio
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mebrooks01"><img src="https://avatars.githubusercontent.com/u/74862054?v=4?s=128" width="128px;" alt=""/><br /><sub><b>bruhfish</b></sub></a><br /><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Code">💻</a><a href="#projectManagement-mebrooks01" title="Project Management">📆</a><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bruhfish"><img src="https://avatars.githubusercontent.com/u/74862054?v=4?s=128" width="128px;" alt=""/><br /><sub><b>bruhfish</b></sub></a><br /><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Code">💻</a><a href="#projectManagement-mebrooks01" title="Project Management">📆</a><a href="https://github.com/bruhfish/Mars-Bot/commits?author=bruhfish" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mebrooks01"><img src="https://avatars.githubusercontent.com/u/39204478?v=4?s=128" width="128px;" alt=""/><br /><sub><b>Malachi Brooks</b></sub></a><br /><a href="https://github.com/mebrooks01/Mars-Bot/commits?author=mebrooks01" title="Code">💻</a> <a href="#projectManagement-mebrooks01" title="Project Management">📆</a> <a href="https://github.com/mebrooks01/Mars-Bot/commits?author=mebrooks01" title="Documentation">📖</a></td>
 </table>
 
